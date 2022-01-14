@@ -32,5 +32,8 @@ Features this app provides:
 
 ### Mobile responsive
 
-![](app-screenshots/5.png)
+<p align="center">
+  <img src="app-screenshots/5.png" />
+</p>
+
 
