@@ -7,8 +7,8 @@ Features this app provides:
 2. Give custom colors to your quotes to make them standout
 3. Add an author name for the quote
 4. Add your comments on existing quotes
-5. Edit existing quotes.
-6. Delete a comment
+5. Delete a comment
+6. Edit existing quotes.
 
 ### App homepage 
 
